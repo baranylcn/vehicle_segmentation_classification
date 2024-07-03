@@ -5,7 +5,7 @@ This project focuses on segmenting and classifying images of vehicles using a de
 This project utilizes a convolutional neural network (CNN) built on a pre-trained MobileNetV3 model to classify vehicle images. The project includes data preprocessing, model training, and evaluation steps, and it visualizes the results of the model's performance.
 
 # Dataset
-The dataset used in this project consists of images of vehicles, which are organized in subfolders representing different classes. The images are loaded and processed using the ImageDataGenerator class from Keras.
+The dataset used in this project consists of images of vehicles, organized into subfolders representing different classes. The images were collected and tagged from the internet and are loaded and processed using the ImageDataGenerator class from Keras.
 ![image](https://github.com/baranylcn/deneme/assets/98966968/ed224b42-6fd8-4f1e-b42d-62200f4e8b9f)
 
 
