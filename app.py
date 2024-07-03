@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 BATCH_SIZE = 32
 IMAGE_SIZE = (300, 300)
 
-dataset = r"C:\Users\Huawei\OneDrive\Masaüstü\work\vehicle_segmentation\vehicle_segmentation2"
+dataset = r"vehicle_segmentation"
 image_dir = Path(dataset)
 
 # Get filepaths and labels
