@@ -11,13 +11,12 @@ The dataset used in this project consists of images of vehicles, which are organ
 
 # Model Architecture
 The model is built on the pre-trained MobileNetV3 architecture with additional dense layers for classification. The architecture includes:
-
 - Input resizing and rescaling layers
 - Data augmentation layers
 - MobileNetV3 base model
 - Additional dense layers with dropout for regularization
 - Output layer with softmax activation
-£ Training the Model
+# Training Model
 The model is trained with the following parameters:
 - Optimizer: Adam
 - Loss: Categorical Crossentropy
